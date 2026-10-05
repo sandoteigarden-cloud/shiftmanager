@@ -1,0 +1,6 @@
+{
+  "name": "シフトLINEマネージャー",
+  "description": "飲食店のアルバイトシフト希望受付・AI自動調整・LINE連携通知を完全自動化するクラウドシフト管理システム",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
